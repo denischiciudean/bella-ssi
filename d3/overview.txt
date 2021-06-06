@@ -1,0 +1,9 @@
+####################### d3.pcap #######################
+
+TOTAL BYTES TRANSFERRED : 200100 
+TOTAL PACKETS TRANSFERRED : 2188 
+
+#######################
+UNIQUE SOURCE IPS 
+10.1.10.20 with a total of 1423 packets sent | 1328130758 -> 1328131963
+10.1.10.130 with a total of 765 packets sent | 1328130758 -> 1328131963
