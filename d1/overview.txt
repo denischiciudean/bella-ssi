@@ -1,0 +1,10 @@
+
+####################### d1.pcap #######################
+
+TOTAL BYTES TRANSFERRED : 23804422 
+TOTAL PACKETS TRANSFERRED : 199007 
+
+#######################
+UNIQUE SOURCE IPS 
+172.16.4.152 with a total of 103262 packets sent | 1330614736 -> 1330618355
+172.16.4.21 with a total of 95745 packets sent | 1330614736 -> 1330618355
